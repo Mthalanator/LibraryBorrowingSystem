@@ -1,0 +1,11 @@
+C:\Users\Sduduzo\Desktop\Sduduzo Mtalane\LibraryBorrowingSystem\LibraryBorrowingSystem\bin\Debug\LibraryBorrowingSystem.exe.config
+C:\Users\Sduduzo\Desktop\Sduduzo Mtalane\LibraryBorrowingSystem\LibraryBorrowingSystem\bin\Debug\LibraryBorrowingSystem.exe
+C:\Users\Sduduzo\Desktop\Sduduzo Mtalane\LibraryBorrowingSystem\LibraryBorrowingSystem\bin\Debug\LibraryBorrowingSystem.pdb
+C:\Users\Sduduzo\Desktop\Sduduzo Mtalane\LibraryBorrowingSystem\LibraryBorrowingSystem\obj\Debug\LibraryBorrowingSystem.csproj.AssemblyReference.cache
+C:\Users\Sduduzo\Desktop\Sduduzo Mtalane\LibraryBorrowingSystem\LibraryBorrowingSystem\obj\Debug\LibraryBorrowingSystem.frmBorrows.resources
+C:\Users\Sduduzo\Desktop\Sduduzo Mtalane\LibraryBorrowingSystem\LibraryBorrowingSystem\obj\Debug\LibraryBorrowingSystem.frmReturns.resources
+C:\Users\Sduduzo\Desktop\Sduduzo Mtalane\LibraryBorrowingSystem\LibraryBorrowingSystem\obj\Debug\LibraryBorrowingSystem.Properties.Resources.resources
+C:\Users\Sduduzo\Desktop\Sduduzo Mtalane\LibraryBorrowingSystem\LibraryBorrowingSystem\obj\Debug\LibraryBorrowingSystem.csproj.GenerateResource.cache
+C:\Users\Sduduzo\Desktop\Sduduzo Mtalane\LibraryBorrowingSystem\LibraryBorrowingSystem\obj\Debug\LibraryBorrowingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sduduzo\Desktop\Sduduzo Mtalane\LibraryBorrowingSystem\LibraryBorrowingSystem\obj\Debug\LibraryBorrowingSystem.exe
+C:\Users\Sduduzo\Desktop\Sduduzo Mtalane\LibraryBorrowingSystem\LibraryBorrowingSystem\obj\Debug\LibraryBorrowingSystem.pdb
